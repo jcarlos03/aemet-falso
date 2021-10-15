@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formulario Falso AEMET
+</title>
+</head>
+<body>
+<form method=get action=http://www.aemet.es/es/buscador>
+ <label>Escriba una ciudad española para saber su meteorología</label><br>
+<input type="text"  name="str">
+<input type="submit" value="enviar"><br>
+
+    
+</form>
+</body>
+</html>
